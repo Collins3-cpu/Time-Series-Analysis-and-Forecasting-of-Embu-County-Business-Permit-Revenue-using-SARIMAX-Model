@@ -30,7 +30,7 @@ Overall, an upward or stable trend, depending on economic factors.
 
 Business activity, regulatory changes, and external events influence high variability.
 
-Forecasting Results
+## Forecasting Results
 
 SARIMAX model fitted with order (1,0,0) and seasonal order (0,1,1,12) — capturing both trend and yearly seasonality.A 
 
