@@ -22,13 +22,13 @@ Trends: Significant seasonal patterns observed in permit collections and other f
 
 Data Quality: Cleaned missing values; datetime conversion for time series analysis.
 
-Single Business Permit Performance
+## Single Business Permit Performance
 
 Historical fluctuations with potential seasonal cycles (e.g., annual peaks).
 
-Overall, an upward or stable trend depending on economic factors.
+Overall, an upward or stable trend, depending on economic factors.
 
-High variability is influenced by business activity, regulatory changes, and external events.
+Business activity, regulatory changes, and external events influence high variability.
 
 Forecasting Results
 
@@ -48,22 +48,22 @@ Decomposition: Observed components analyzed for trend, seasonality, and residual
 
 💡 Recommendations
 
-Policy & Revenue Enhancement:
+1. Policy & Revenue Enhancement:
 
 Strengthen business registration drives to boost Single Business Permit collections.
 Introduce digital payment systems to improve compliance and reduce leakages.
 
-Seasonal Planning:
+2. Seasonal Planning:
 
 Align enforcement and awareness campaigns with peak revenue months identified in the analysis.
 Use forecasts for budgeting and resource allocation.
 
-Diversification:
+3. Diversification:
 
 Explore growth opportunities in underperforming streams (e.g., Advert Fees, Technical Planning Fees).
 Monitor external factors (inflation, business climate) impacting revenue.
 
-Model Improvements:
+4. Model Improvements:
 
 Incorporate exogenous variables (e.g., GDP growth, inflation rates, number of registered businesses).
 
@@ -71,7 +71,7 @@ Experiment with alternative models (Prophet, LSTM) for comparison.
 
 Regular model retraining with new monthly data.
 
-Operational Recommendations:
+5. Operational Recommendations:
 
 Automate reporting dashboards for real-time revenue monitoring.
 
